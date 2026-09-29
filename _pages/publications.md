@@ -15,6 +15,10 @@ author_profile: true
 
 ---
 
+Saad-Roy CM\*, Ciupe SM\*, Nielsen BF\*, <span style="color:steelblue">Li Y</span>, Ploss A, te Velthuis AJW, and Grenfell BT. **Eco-epidemiological dynamics of hepatitis delta virus interactions with hepatitis B virus: persistence, extinction, and coexistence.** In revision, *Epidemics*. (\*Equal contribution.)
+
+---
+
 Brook CE, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender L, Huy R, Lay S, Leang R, <span style="color:steelblue">Li Y</span>, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. (2024). **Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia.** *PNAS* 121 (36): e2318704121. [10.1073/pnas.2318704121](https://doi.org/10.1073/pnas.2318704121).
 
 ---
