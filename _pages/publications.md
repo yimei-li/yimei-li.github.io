@@ -7,11 +7,11 @@ author_profile: true
 
 ## Selected Publications and Preprints
 
-<span style="color:steelblue">Li Y</span>, Nielsen BF, Levin SA, te Velthuis AJW, and Grenfell BT. **Impact of defective interfering particles on within-host influenza dynamics and interferon responses.** Manuscript complete; forthcoming on *bioRxiv* (April 2026).
+<span style="color:steelblue">Li Y</span>, Nielsen BF, Levin SA, te Velthuis AJW, and Grenfell BT. **Impact of defective interfering particles on within-host influenza dynamics and interferon responses.** Manuscript in preparation.
 
 ---
 
-<span style="color:steelblue">Li Y</span>, Nielsen BF, Levin SA, te Velthuis AJW, and Grenfell BT. (2025). **Spatio-temporal modelling of in vitro influenza A virus infection: the impact of defective interfering particles on type I interferon response.** *PLOS Computational Biology*. [10.1101/2025.10.09.681519](https://doi.org/10.1101/2025.10.09.681519).
+<span style="color:steelblue">Li Y</span>, Nielsen BF, Levin SA, te Velthuis AJW, and Grenfell BT. (2026). **Spatio–temporal modelling of in vitro influenza A virus infection: the impact of defective interfering particles on the type I interferon response.** *PLOS Computational Biology* 22 (4): e1014198. [10.1371/journal.pcbi.1014198](https://doi.org/10.1371/journal.pcbi.1014198).
 
 ---
 
