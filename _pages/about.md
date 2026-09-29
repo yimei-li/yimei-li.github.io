@@ -24,7 +24,8 @@ Before Princeton, I was a research assistant in the [Brook Lab](https://brooklab
 
 - **Oct:** Upcoming talk (Zoom) at the Catherine Blish Lab, Stanford University, on October 19.
 - **Aug:** Talk at the Bali Pulendran Lab, Stanford University: cross-scale dynamics of defective interfering particles and the type I interferon response.
-- **Jul:** Talks at Yale (Ellen Foxman Lab; Daniel Weinberger and Virginia Pitzer Labs) and the Harvard T.H. Chan School of Public Health (Christopher Golden Lab; Yonatan Grad Lab).
+- **Jul:** Talks at Yale: Ellen Foxman Lab; Daniel Weinberger and Virginia Pitzer Labs.
+- **Jul:** Talks at the Harvard T.H. Chan School of Public Health: Christopher Golden Lab; Yonatan Grad Lab.
 - **Apr:** Our paper on spatio-temporal modelling of in vitro influenza A infection, DIPs, and the type I interferon response was published in [*PLOS Computational Biology*](https://doi.org/10.1371/journal.pcbi.1014198).
 - Invited presentation at the [Graduate Research in Evolutionary Biology and Ecology Symposium](https://reeb.symposium.rutgers.edu/) (Rutgers University): spatio-temporal dynamics of the type I interferon response to viral infection in the presence of defective interfering particles.
 
