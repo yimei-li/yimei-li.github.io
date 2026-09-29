@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications and Preprints
 
-<span style="color:steelblue">Li Y</span>, Nielsen BF, Levin SA, te Velthuis AJW, and Grenfell BT. **Impact of defective interfering particles on within-host influenza dynamics and interferon responses.** Manuscript in preparation.
+<span style="color:steelblue">Li Y</span>, Lourens C, Nielsen BF, Levin SA, te Velthuis AJW, and Grenfell BT. **A cumulative negative feedback regulates type-I interferon decline in influenza infection, modulated by defective viral genomes.** Manuscript complete; to be submitted.
 
 ---
 
