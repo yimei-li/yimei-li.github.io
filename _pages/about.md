@@ -23,7 +23,7 @@ Before Princeton, I was a research assistant in the [Brook Lab](https://brooklab
 ## 2026
 
 - **Oct:** Upcoming talk (Zoom) at the Catherine Blish Lab, Stanford University, on October 19.
-- **Sep:** Teaching assistant for ENV 304, Disease Ecology, Economics, and Policy (Princeton), my second year on the course. In precept, students turn outbreak scenarios into compartmental ODE models (SIR, SEIR, SIRS with waning immunity) and work through SIR calculations.
+- **Sep:** Happy to be back as a teaching assistant for ENV 304, Disease Ecology, Economics, and Policy (Princeton), my second year on the course. In precept, students turn outbreak scenarios into ODE models.
 - **Aug:** Talk at the Bali Pulendran Lab, Stanford University: cross-scale dynamics of defective interfering particles and the type I interferon response.
 - **Jul:** Talks at Yale: Ellen Foxman Lab; Daniel Weinberger and Virginia Pitzer Labs.
 - **Jul:** Talks at the Harvard T.H. Chan School of Public Health: Christopher Golden Lab; Yonatan Grad Lab.
